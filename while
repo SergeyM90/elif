@@ -1,0 +1,6 @@
+is_hungry = True
+while is_hungry:
+    print("Перекуси!")
+    q = input("Вы по-прежнему голодны? Введите Да или Нет:")
+    if q == "Нет":
+        is_hungry = False
