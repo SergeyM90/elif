@@ -1,0 +1,4 @@
+is_warm = True
+is_sunny = True
+if is_warm and is_sunny:
+    print("Одену футболку и на улицу")
