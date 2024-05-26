@@ -1,0 +1,8 @@
+length = 10
+head = ">- (0)"
+body = "     |"
+tail = "     ____/"
+print(head)
+for x in range(length):
+    print(body)
+print(tail)
