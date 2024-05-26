@@ -1,0 +1,4 @@
+num_laps = 1
+while num_laps <= 5:
+    print(f"А теперь круг № {num_laps}!")
+    num_laps += 1
