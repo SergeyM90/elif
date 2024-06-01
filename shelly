@@ -1,0 +1,7 @@
+from turtle import *
+shelly = Turtle()
+shelly.shape ("turtle")
+shelly.forward(100)
+shelly.backward(100)
+shelly.right(90)
+shelly.left(90)
